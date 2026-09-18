@@ -40305,7 +40305,7 @@ k=k.b*p
 a0=new A.l0(B.c3,B.bo,B.hO,B.hP,B.c8)
 a0.r=a.e.gt()
 a1=a0.dj()
-l.drawCircle(j,k,11,a1)
+l.drawCircle(j,k,13,a1)
 a1.delete()
 if(m){a2=B.j.k(a.c)
 a3=new A.td(new A.dN(a2,a4,a4,B.au,a4,a4,a4,a4,a4,a4,B.QD),B.aH,B.L,new A.ja(1),a4,a4,a4,a4,B.ay,a4)
